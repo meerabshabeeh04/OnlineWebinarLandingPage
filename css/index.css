@@ -1,0 +1,35 @@
+h1{
+    font-size: 35px;
+    text-align: center;
+    margin: 10px;
+
+}
+
+p.main-heading{
+    color:white; 
+    margin: 0px;
+    padding: 5px; 
+    font-size:50px
+}
+
+hr{
+    color:white;
+}
+
+div#carouselExampleAutoplaying{
+    margin: 0 auto;
+    width: 80%;
+    height: 50%;
+}
+
+img.d-block{
+    height: 600px;
+}
+
+h5.p-3{
+    font-size: 30px;
+}
+
+a{
+    text-decoration: none;
+}

@@ -1,0 +1,273 @@
+WEBINAR TABLE:
+
+INSERT INTO `webinar` (`WEBINAR_ID`, `TOPIC`, `DATE`, `TIME`, `INTRODUCTION`, `DURATION`, `IMAGE`) VALUES (NULL, 'Internet Of Things (IOT)', '2023-10-18', '7:00 PM', 'Welcome to our exciting webinar on the Internet of Things (IoT) - the transformative technology that is revolutionizing the way we connect, interact, and innovate in today\'s digital age. In this dynamic session, we will delve deep into the world of IoT, exploring its vast potential, real-world applications, and the pivotal role it plays in shaping the future of industries and everyday life. Whether you are an industry expert seeking to harness the power of IoT or simply curious about this cutting-edge technology, this webinar promises to be an enlightening journey through the ever-expanding landscape of IoT innovation. Join us as we unlock the secrets behind IoT\'s exponential growth and explore the limitless possibilities it offers in this interconnected world.', '2', 'images/IOT.jpg');
+
+INSERT INTO `webinar` (`WEBINAR_ID`, `TOPIC`, `DATE`, `TIME`, `INTRODUCTION`, `DURATION`, `IMAGE`) VALUES (NULL, 'Artificial Intelligence (AI)', '2023-10-10', '5:00 PM', 'Welcome to the future of technology and innovation! In today\'s rapidly evolving digital landscape, artificial intelligence (AI) stands as a beacon of unprecedented possibilities. As we embark on this captivating journey together, we invite you to join us in exploring the transformative power of AI in our upcoming webinar. Over the next few hours, we will delve into the latest breakthroughs, practical applications, and the limitless potential that AI offers to reshape industries, revolutionize decision-making, and enhance our daily lives. Whether you\'re a seasoned AI enthusiast or just beginning to dip your toes into this exciting field, this webinar promises to be an enlightening and thought-provoking experience. So, fasten your seatbelts, as we embark on a voyage to discover the boundless horizons of artificial intelligence!', '3', 'images/AI.jpg');
+
+INSERT INTO `webinar` (`WEBINAR_ID`, `TOPIC`, `DATE`, `TIME`, `INTRODUCTION`, `DURATION`, `IMAGE`) VALUES (NULL, 'Android Development', '2023-10-10', '8:00 PM', 'Welcome to our Android Development webinar, where we embark on an exciting journey into the world of mobile app creation. In today\'s tech-driven landscape, Android applications have become an integral part of our daily lives, offering innovative solutions, entertainment, and connectivity at our fingertips. Whether you\'re an aspiring developer looking to kickstart your career or an experienced programmer aiming to enhance your Android skills, this webinar is your gateway to mastering the art of Android app development. Over the next few hours, we\'ll delve into the fundamentals, explore best practices, and uncover the latest trends in Android development, equipping you with the knowledge and tools needed to create dynamic, user-friendly applications for the ever-evolving Android platform. Join us as we embark on this exciting educational journey, bringing your app ideas to life and shaping the future of mobile technology.', '1.5', 'images/Android.jpg');
+
+INSERT INTO `webinar` (`WEBINAR_ID`, `TOPIC`, `DATE`, `TIME`, `INTRODUCTION`, `DURATION`, `IMAGE`) VALUES (NULL, 'Augmented Reality', '2023-10-04', '6:00 PM', 'Welcome to our exciting Augmented Reality (AR) webinar! In today\'s rapidly evolving technological landscape, AR has emerged as a groundbreaking innovation that is transforming the way we interact with the world around us. This immersive and interactive technology has found its way into various industries, from gaming and entertainment to education, healthcare, and manufacturing. As we delve into the intricacies of AR during this webinar, we will explore its applications, potential, and the exciting possibilities it offers for businesses, developers, and consumers alike. Join us on this journey to uncover the captivating world of Augmented Reality and discover how it is reshaping our reality.', '1', 'images/AugmentedReality.webp');
+
+INSERT INTO `webinar` (`WEBINAR_ID`, `TOPIC`, `DATE`, `TIME`, `INTRODUCTION`, `DURATION`, `IMAGE`) VALUES (NULL, 'Automation', '2023-10-18', '5:00 PM', 'Welcome to the Automation Reality Webinar, where we embark on an enlightening journey through the transformative landscape of automation. In today\'s rapidly evolving world, automation is not just a buzzword; it\'s a tangible force reshaping industries, businesses, and everyday life. This webinar is your gateway to understanding how automation is no longer confined to science fiction but has become an integral part of our reality. Join us as we explore the profound impact, possibilities, and challenges that automation brings to the forefront of innovation, productivity, and efficiency. Whether you are a seasoned professional seeking to stay ahead of the curve or simply curious about the future of technology, this webinar promises to provide valuable insights and inspire a vision for a more automated tomorrow. Welcome aboard the Automation Reality journey!', '1', 'images/Automation.jpg');
+
+INSERT INTO `webinar` (`WEBINAR_ID`, `TOPIC`, `DATE`, `TIME`, `INTRODUCTION`, `DURATION`, `IMAGE`) VALUES (NULL, 'Business Intelligence', '2023-10-23', '7:00 PM', 'Welcome to our Business Intelligence Webinar, where we embark on a journey into the dynamic world of data-driven decision-making. In today\'s rapidly evolving business landscape, the ability to harness the power of data is not just a competitive advantage—it\'s a necessity. Whether you\'re a seasoned BI professional or new to the field, this webinar is designed to provide you with valuable insights, strategies, and the latest trends in business intelligence. Join us as we explore the transformative potential of data analytics, delve into cutting-edge tools and techniques, and learn how organizations are using BI to drive innovation, optimize operations, and stay ahead in an increasingly data-centric era. Get ready to unlock the secrets of informed decision-making and take your business to new heights with the knowledge gained from this engaging webinar.', '2', 'images/BusinessIntelligence.jpg');
+
+INSERT INTO `webinar` (`WEBINAR_ID`, `TOPIC`, `DATE`, `TIME`, `INTRODUCTION`, `DURATION`, `IMAGE`) VALUES (NULL, 'Cloud Computing', '2023-10-09', '5:00 PM', 'Welcome to our Cloud Computing webinar! In an era where digital transformation is at the forefront of technological advancements, harnessing the power of the cloud has become more critical than ever. Whether you\'re a seasoned IT professional, a business leader, or simply someone eager to explore the limitless possibilities of cloud technology, this webinar is your gateway to understanding the fundamental concepts, best practices, and real-world applications of cloud computing. Join us as we embark on a journey through the cloud, demystifying its complexities and unveiling the myriad ways it can revolutionize the way we work, innovate, and thrive in the modern digital landscape.', '2', 'images/CloudComputing.jpg');
+
+INSERT INTO `webinar` (`WEBINAR_ID`, `TOPIC`, `DATE`, `TIME`, `INTRODUCTION`, `DURATION`, `IMAGE`) VALUES (NULL, 'Cyber Security', '2023-10-20', '6:00 PM', 'Welcome to our Cyber Security Webinar! In an increasingly interconnected world, the importance of safeguarding digital assets and sensitive information has never been more critical. As technology continues to advance, so do the threats posed by cybercriminals, making it imperative for individuals, businesses, and organizations to stay informed and proactive in defending against cyberattacks. In this webinar, we will delve into the latest trends and best practices in cyber security, equipping you with the knowledge and tools necessary to protect yourself and your digital presence in an ever-evolving digital landscape. Join us as we explore the forefront of cyber security and embark on a journey towards a safer and more secure online environment.', '2', 'images/CyberSecurity.jpg');
+
+INSERT INTO `webinar` (`WEBINAR_ID`, `TOPIC`, `DATE`, `TIME`, `INTRODUCTION`, `DURATION`, `IMAGE`) VALUES (NULL, 'Data Analysis', '2023-10-24', '7:00 PM', 'Welcome to our Data Analysis webinar, where we embark on a journey through the dynamic and transformative world of data-driven decision-making. In today\'s data-driven landscape, information is power, and the ability to harness, interpret, and draw meaningful insights from data is a skill that can drive success across industries. Whether you\'re a seasoned data analyst looking to sharpen your skills, a business professional eager to leverage data for strategic advantage, or a newcomer curious about the wonders of data analysis, this webinar is your gateway to unlocking the potential of data. Join us as we explore the methodologies, tools, and real-world applications that make data analysis an indispensable tool for informed decision-making and innovation.', '3', 'images/DataAnalysis.png');
+
+INSERT INTO `webinar` (`WEBINAR_ID`, `TOPIC`, `DATE`, `TIME`, `INTRODUCTION`, `DURATION`, `IMAGE`) VALUES (NULL, 'Data Science', '2023-10-03', '8:00 PM', 'Welcome to the exciting world of data science! In today\'s rapidly evolving digital landscape, data is the new currency, and harnessing its power is paramount for businesses and individuals alike. Our Data Science webinar is designed to be your guiding light in this data-driven journey. Whether you\'re a seasoned data professional looking to stay updated on the latest trends or a beginner eager to dive into the realm of data analytics and machine learning, this webinar promises to be an illuminating experience. Join us as we explore the fascinating intersection of data, technology, and insights, and unlock the potential that data science holds for innovation and problem-solving. Get ready to embark on a transformative learning journey that will equip you with the knowledge and skills to navigate the data-driven future with confidence.', '2', 'images/DataScience.jpg');
+
+INSERT INTO `webinar` (`WEBINAR_ID`, `TOPIC`, `DATE`, `TIME`, `INTRODUCTION`, `DURATION`, `IMAGE`) VALUES (NULL, 'Data Visualization', '2023-10-25', '5:00 PM', 'Welcome to an exciting and informative Data Visualization webinar! In today\'s data-driven world, the ability to effectively communicate insights through visual representations of data is paramount. Whether you\'re a data analyst, a business professional, a student, or simply someone curious about the power of data visualization, this webinar is designed to unlock the secrets of creating compelling and meaningful visuals that can drive decision-making and understanding in any field. Join us as we embark on a journey to explore the art and science of data visualization, unveiling the tools, techniques, and best practices that will empower you to transform raw data into clear, impactful, and actionable visuals. Get ready to chart a course toward mastery in the world of data visualization!', '1', 'images/DataVisualization.png');
+
+INSERT INTO `webinar` (`WEBINAR_ID`, `TOPIC`, `DATE`, `TIME`, `INTRODUCTION`, `DURATION`, `IMAGE`) VALUES (NULL, 'Data Warehousing', '2023-10-09', '7:00 PM', 'Welcome to our Data Warehousing webinar! In today\'s fast-paced business landscape, organizations are inundated with vast amounts of data from various sources, making it increasingly crucial to have a robust and efficient data management strategy in place. Data Warehousing has emerged as a fundamental solution to address this challenge, allowing companies to consolidate, store, and analyze data to gain valuable insights and make informed decisions. Whether you\'re new to the world of data warehousing or looking to enhance your existing knowledge, this webinar will provide you with essential insights, best practices, and real-world examples to help you harness the power of data warehousing for your organization\'s success. Join us as we delve into the key concepts, technologies, and strategies that can transform your data into a strategic asset.', '1', 'images/DataWarehousing.jpg');
+
+INSERT INTO `webinar` (`WEBINAR_ID`, `TOPIC`, `DATE`, `TIME`, `INTRODUCTION`, `DURATION`, `IMAGE`) VALUES (NULL, 'Ethical Hacking', '2023-10-30', '5:00 PM', 'Welcome to the world of ethical hacking, where the pursuit of knowledge meets the responsibility to protect. In today\'s digitally connected age, cybersecurity has become a paramount concern for individuals, businesses, and governments alike. As we navigate an increasingly complex digital landscape, the need for skilled ethical hackers has never been greater. In this webinar, we will embark on a journey into the fascinating realm of ethical hacking, exploring the tools, techniques, and principles that empower cybersecurity professionals to safeguard our digital world while adhering to a strict code of ethics. Join us as we delve into the exciting world of ethical hacking and learn how to wield the power of technology for the greater good.', '1.5', 'images/EthicalHacking.jpg');
+
+INSERT INTO `webinar` (`WEBINAR_ID`, `TOPIC`, `DATE`, `TIME`, `INTRODUCTION`, `DURATION`, `IMAGE`) VALUES (NULL, 'Full Stack Development', '2023-10-15', '5:00 PM', 'Welcome to our Full Stack Development Webinar! In today\'s rapidly evolving tech landscape, full stack development has emerged as a pivotal skillset, bridging the gap between front-end and back-end technologies. This webinar is your gateway to unlocking the secrets of creating dynamic, end-to-end web applications and gaining a comprehensive understanding of the tools, languages, and methodologies that empower developers to craft seamless digital experiences. Whether you\'re a seasoned programmer looking to expand your skillset or a newcomer eager to embark on a journey into the world of full stack development, this webinar promises to be an enlightening and immersive experience. Join us as we delve into the intricacies of full stack development and equip you with the knowledge and insights needed to excel in this dynamic field.', '3', 'images/FullStackDevelopment.png');
+
+INSERT INTO `webinar` (`WEBINAR_ID`, `TOPIC`, `DATE`, `TIME`, `INTRODUCTION`, `DURATION`, `IMAGE`) VALUES (NULL, 'Game Development', '2023-10-07', '4:00 PM', 'Welcome to the exciting world of game development! In today\'s fast-paced digital landscape, the creation of video games has evolved into a multi-billion-dollar industry that combines art, technology, and storytelling in unprecedented ways. Whether you\'re a seasoned developer looking to sharpen your skills or a newcomer eager to embark on a creative journey, this webinar promises to be your gateway into the captivating realm of game development. Over the next few hours, we will delve into the key principles, tools, and strategies that drive the creation of immersive and engaging gaming experiences. Get ready to unlock the secrets behind crafting your own virtual worlds, characters, and adventures, as we embark on this thrilling exploration of game development.', '2.5', 'images/Game.jpg');
+
+INSERT INTO `webinar` (`WEBINAR_ID`, `TOPIC`, `DATE`, `TIME`, `INTRODUCTION`, `DURATION`, `IMAGE`) VALUES (NULL, 'Graphic Designing', '2023-10-19', '7:00 PM', 'Welcome to the world of creativity and visual expression! In today\'s digital age, graphic design has become an indispensable tool for conveying ideas, emotions, and messages across various mediums. Whether you\'re a seasoned designer looking to refine your skills or a novice eager to dive into the exciting realm of graphic design, you\'ve come to the right place. Our Graphic Designing Webinar is designed to inspire and educate, bringing together industry experts, innovative techniques, and a community of like-minded individuals passionate about the art of visual storytelling. Get ready to embark on a journey that will unlock your creative potential and equip you with the knowledge and tools to craft stunning visual experiences. Join us as we explore the dynamic world of graphic design, where pixels meet imagination, and design meets impact.', '2', 'images/GraphicDesigning.jpg');
+
+INSERT INTO `webinar` (`WEBINAR_ID`, `TOPIC`, `DATE`, `TIME`, `INTRODUCTION`, `DURATION`, `IMAGE`) VALUES (NULL, 'Machine Learning (ML)', '2023-10-26', '7:00 PM', 'Welcome to our Machine Learning Webinar! In today\'s rapidly evolving technological landscape, machine learning has emerged as a transformative force, reshaping industries, automating tasks, and driving innovation at an unprecedented pace. Whether you are an aspiring data scientist, a seasoned AI practitioner, or simply curious about the power of algorithms, this webinar is your gateway to unlocking the potential of machine learning. Over the next few hours, we will delve into the fundamentals, explore cutting-edge developments, and provide practical insights that will empower you to harness the full potential of this dynamic field. Get ready to embark on a journey into the world of machine learning, where data meets intelligence, and possibilities are limitless.', '3', 'images/ML.jpg');
+
+INSERT INTO `webinar` (`WEBINAR_ID`, `TOPIC`, `DATE`, `TIME`, `INTRODUCTION`, `DURATION`, `IMAGE`) VALUES (NULL, 'Python', '2023-10-12', '5:00 PM', 'Welcome to our Python Webinar! Whether you\'re an aspiring programmer, a seasoned developer, or simply curious about the world of coding, you\'ve come to the right place. Python, known for its simplicity, versatility, and wide-ranging applications, has become one of the most popular programming languages in the world. In this webinar, we\'ll embark on a journey through the fundamental concepts, practical applications, and the latest trends in Python programming. Whether you\'re looking to kickstart your programming career, enhance your existing skills, or stay updated on the latest developments in the Python ecosystem, our webinar promises to be an enlightening and enriching experience. Join us as we dive into the world of Python and unlock its incredible potential.', '1.5', 'images/Python.jpg');
+
+INSERT INTO `webinar` (`WEBINAR_ID`, `TOPIC`, `DATE`, `TIME`, `INTRODUCTION`, `DURATION`, `IMAGE`) VALUES (NULL, 'Robotics', '2023-10-22', '4:00 PM', 'Welcome to the exciting world of robotics! We are thrilled to have you join us for this enlightening webinar that will delve deep into the fascinating realm of robotics. In an era where technology continues to shape the way we live and work, robotics stands at the forefront, offering innovative solutions to some of our most pressing challenges. Whether you\'re a seasoned professional in the field or simply curious about the latest advancements, this webinar promises to be a captivating journey through the latest trends, breakthroughs, and applications in robotics. Get ready to explore the future of automation, artificial intelligence, and human-robot collaboration as we embark on this enlightening robotic adventure together.', '3', 'images/Robotics.jpg');
+
+INSERT INTO `webinar` (`WEBINAR_ID`, `TOPIC`, `DATE`, `TIME`, `INTRODUCTION`, `DURATION`, `IMAGE`) VALUES (NULL, 'Virtual Reality', '2023-10-11', '6:00 PM', 'Welcome to an exciting journey into the immersive world of Virtual Reality! In this webinar, we invite you to step beyond the boundaries of the physical realm and explore the limitless possibilities that VR technology has to offer. Whether you\'re a curious newcomer or a seasoned enthusiast, this virtual gathering will dive deep into the captivating realm of VR, unlocking its potential for entertainment, education, business, and beyond. Join us as we unravel the immersive experiences, cutting-edge innovations, and the future possibilities that await in this dynamic and transformative space. Get ready to embark on a virtual adventure like no other, where reality blurs, and imagination knows no bounds. Welcome to the Virtual Reality Webinar!', '2', 'images/VirtualReality.webp');
+
+
+
+
+
+WEBINAR_TOPICS TABLE:
+
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '1', 'Introduction to IoT', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '1', 'IoT Use Cases and Applications', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '1', 'IoT Architecture and Components', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '1', 'IoT Data Analytics', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '1', 'IoT Security', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '1', 'IoT Connectivity Options', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '1', 'IoT Prototyping and Development', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '1', 'IoT Standards and Protocols', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '1', 'IoT and Edge Computing', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '1', 'Closing Remarks and Resources', '10 minutes');
+
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '2', 'Introduction to AI', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '2', 'Machine Learning Basics', '20 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '2', 'Deep Learning and Neural Networks', '20 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '2', 'Natural Language Processing (NLP)', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '2', 'Computer Vision', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '2', 'Reinforcement Learning', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '2', 'Ethics and AI', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '2', 'AI in Healthcare', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '2', 'AI in Business', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '2', 'AI and the Future', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '2', 'Q&A Session', '20 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '2', 'Closing Remarks', '10 minutes');
+
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '3', 'Introduction', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '3', 'Setting Up the Development Environment', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '3', 'Android Basics', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '3', 'User Interface (UI) Design', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '3', 'Android Activities and Intents', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '3', 'Data Storage', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '3', 'Networking and APIs', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '3', 'Publishing Your App', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '3', 'Q&A and Conclusion', '10 minutes');
+
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '4', 'Introduction to Augmented Reality', '5 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '4', 'Types of Augmented Reality', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '4', 'Applications of Augmented Reality', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '4', 'AR Technology and Hardware', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '4', 'AR Development Process', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '4', 'Challenges and Future Trends', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '4', 'Closing Remarks and Resources', '5 minutes');
+
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '5', 'Introduction to Automation', '5 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '5', 'Types of Automation', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '5', 'Benefits of Automation', '5 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '5', 'Key Automation Technologies', '5 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '5', 'Automation Use Cases', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '5', 'Automation Tools and Platforms', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '5', 'Automation Best Practices', '5 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '5', 'Future Trends in Automation', '5 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '5', 'Conclusion and Resources', '5 minutes');
+
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '6', 'Introduction to Business Intelligence', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '6', 'Key Components of Business Intelligence', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '6', 'Data Sources and Integration', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '6', 'Data Modeling and Analysis', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '6', 'BI Reporting and Dashboard Design', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '6', 'Business Intelligence Tools Overview', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '6', 'Data Quality and Governance', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '6', 'Business Intelligence Implementation', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '6', 'BI and Decision-Making', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '6', 'Data Security and Compliance', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '6', 'Conclusion and Next Steps', '10 minutes');
+
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '7', 'Introduction to Cloud Computing', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '7', 'Cloud Service Models', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '7', 'Cloud Deployment Models', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '7', 'Cloud Providers and Ecosystem', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '7', 'Cloud Security', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '7', 'Cloud Cost Management', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '7', 'Cloud Migration Strategies', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '7', 'Serverless Computing', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '7', 'Big Data and Analytics in the Cloud', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '7', 'Conclusion and Next Steps', '10 minutes');
+
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '8', 'Introduction to Cybersecurity', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '8', 'Cyber Threats and Attack Vectors', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '8', 'Cybersecurity Fundamentals', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '8', 'Security Best Practices', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '8', 'Social Engineering and Phishing', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '8', 'Endpoint Security', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '8', 'Network Security', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '8', 'Cloud Security', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '8', 'Incident Response and Cybersecurity Frameworks', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '8', 'Conclusion and Resources', '10 minutes');
+
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '9', 'Introduction to Data Analysis', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '9', 'Data Collection and Preprocessing', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '9', 'Exploratory Data Analysis', '20 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '9', 'Statistical Analysis', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '9', 'Regression Analysis', '20 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '9', 'Classification and Machine Learning', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '9', 'Data Visualization', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '9', ' Data Ethics and Privacy', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '9', 'Case Studies and Practical Examples', '30 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '9', 'Tools and Resources', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '9', 'Q&A Session', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '9', 'Conclusion and Next Steps', '10 minutes');
+
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '10', 'Introduction to Data Science', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '10', 'Data Collection and Preparation', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '10', 'Exploratory Data Analysis (EDA)', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '10', 'Machine Learning Fundamentals', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '10', 'Feature Engineering', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '10', 'Model Selection and Evaluation', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '10', 'Introduction to Deep Learning', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '10', 'Deep Learning Applications', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '10', 'Data Science Tools and Technologies', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '10', 'Data Science in Industry', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '10', 'Closing Remarks and Next Steps', '10 minutes');
+
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '11', 'Introduction', '5 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '11', 'The Basics of Data Visualization', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '11', 'Data Preparation', '5 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '11', 'Choosing the Right Visualization Type', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '11', 'Design Principles', '5 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '11', 'Tools and Software', '5 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '11', 'Interactivity and Storytelling', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '11', 'Conclusion and Next Steps', '10 minutes');
+
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '12', 'Introduction to Data Warehousing', '5 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '12', 'Data Warehousing Architecture', '5 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '12', 'Data Modeling in Data Warehousing', '5 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '12', 'ETL Processes (Extract, Transform, Load)', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '12', 'Data Warehousing Tools and Technologies', '5 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '12', 'Data Warehouse Design Best Practices', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '12', 'Data Warehousing in the Cloud', '5 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '12', 'Data Warehousing Security and Compliance', '5 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '12', 'Conclusion and Next Steps', '10 minutes');
+
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '13', 'Introduction to Ethical Hacking', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '13', 'Types of Hackers', '5 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '13', 'Legal and Ethical Considerations', '5 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '13', 'The Hacking Process', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '13', 'Common Hacking Tools', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '13', 'Vulnerability Assessment', '5 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '13', 'Exploitation and Penetration Testing', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '13', 'Footprinting and Reconnaissance', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '13', 'Scanning and Enumeration', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '13', 'Exploitation and Post-Exploitation', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '13', 'Conclusion and Resources', '5 minutes');
+
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '14', 'Introduction to Full-Stack Development', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '14', 'Front-End Development', '30 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '14', 'Back-End Development', '30 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '14', 'APIs and Microservices', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '14', 'Databases and Data Persistence', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '14', 'Authentication and Authorization', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '14', 'Web Application Security', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '14', 'Version Control and Collaboration Tools', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '14', 'Deployment and Hosting', '20 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '14', 'Testing and Quality Assurance', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '14', 'DevOps and Workflow', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '14', 'Conclusion and Resources', '10 minutes');
+
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '15', 'Introduction to Game Development', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '15', 'Game Design Fundamentals', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '15', 'Game Engines and Tools', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '15', 'Programming Basics for Games', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '15', 'Creating 2D Games', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '15', 'Creating 3D Games', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '15', 'Game Mechanics and Gameplay', '20 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '15', 'Game Art and Animation', '20 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '15', 'Sound and Music in Games', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '15', 'Game Testing and Debugging', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '15', 'Publishing and Monetization', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '15', 'Conclusion and Wrap-Up', '5 minutes');
+
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '16', 'Introduction to Graphic Design', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '16', 'Design Principles', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '16', 'Typography', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '16', 'Color Theory and Usage', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '16', 'Design Software and Tools', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '16', 'Logo Design', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '16', 'Web Design', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '16', 'Print Design', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '16', 'Graphic Design Tips and Tricks', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '16', 'Conclusion and Resources', '10 minutes');
+
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '17', 'Introduction to Machine Learning', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '17', 'Supervised Learning', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '17', 'Unsupervised Learning', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '17', 'Deep Learning', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '17', 'Feature Engineering and Data Preprocessing', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '17', 'Model Evaluation and Hyperparameter Tuning', '20 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '17', 'Machine Learning Pipelines and Deployment', '20 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '17', 'Ethical and Responsible AI', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '17', 'Case Studies and Practical Examples', '30 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '17', 'Future Trends in Machine Learning', '20 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '17', 'Q&A Session', '20 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '17', 'Closing Remarks and Resources', '5 minutes');
+
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '18', 'Introduction', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '18', 'Python Basics', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '18', 'Control Structures', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '18', 'Functions and Modules', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '18', 'Data Structures', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '18', 'File Handling', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '18', 'Object-Oriented Programming (OOP)', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '18', 'Wrap-up', '5 minutes');
+
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '19', 'Introduction to Robotics', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '19', 'Types of Robots', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '19', 'Robotics Hardware', '20 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '19', 'Robot Perception', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '19', 'Robot Control', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '19', 'Artificial Intelligence in Robotics', '20 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '19', 'Robotics in Industry', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '19', 'Robotic Ethics and Safety', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '19', 'Human-Robot Interaction', '20 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '19', 'Emerging Trends in Robotics', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '19', 'Robotics in Space Exploration', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '19', 'Future of Robotics', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '19', 'Closing Remarks and Resources', '10 minutes');
+
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '20', 'Introduction to Virtual Reality', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '20', 'Types of Virtual Reality', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '20', 'VR Hardware and Software', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '20', 'Creating Immersive VR Content', '15 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '20', 'Applications of VR', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '20', 'The Future of VR', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '20', 'VR Ethics and Challenges', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '20', 'Case Studies and Success Stories', '20 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '20', 'Q&A Session', '10 minutes');
+INSERT INTO `webinar_topics` (`WEBINAR_TOPIC_ID`, `WEBINAR_ID`, `TOPIC`, `DURATION`) VALUES (NULL, '20', 'Closing Remarks and Thank You', '10 minutes');
